@@ -673,7 +673,7 @@ nav > ul > li > a:focus,.nav > ul > li > a:hover {
   animation: none
 }
 
-.icon_bell__container > img {
+.icon_bell__container > svg {
   position: absolute;
   width: 15px;
   height: 20px
@@ -990,6 +990,9 @@ h1 {
 
 .bonus, .registration, .membership, .sports, .bets, .mobile, .banner {
   margin-top: 30px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 aside > a > img {
