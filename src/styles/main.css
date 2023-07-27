@@ -673,7 +673,7 @@ nav > ul > li > a:focus,.nav > ul > li > a:hover {
   animation: none
 }
 
-.icon_bell__container > svg {
+.icon_bell__container > img {
   position: absolute;
   width: 15px;
   height: 20px
